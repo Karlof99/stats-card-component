@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+https://github.com/Karlof99/stats-card-component/blob/master/assets/stats-screenshot.png
 
 ### Links
 
